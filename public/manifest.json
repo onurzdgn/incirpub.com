@@ -8,14 +8,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "amblem.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "474x527"
     },
     {
-      "src": "logo512.png",
+      "src": "amblem.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "474x527"
     }
   ],
   "start_url": ".",
