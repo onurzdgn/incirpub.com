@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+# İncir Pub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ENGLISH
 
-## Available Scripts
+### About the Project
 
-In the project directory, you can run:
+This project is a website of a pub named "İncir Pub". You can find the menu, contact information and address of this pub on this website.
 
-### `npm start`
+### Project Content
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+In this project, React.js is used. In this project, libraries such as React Router, React Tailwind CSS, React Icons and React Scroll are used with React.js.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### How to Run the Project?
 
-### `npm test`
+To run this project, you first need to download the project to your computer. Then, in the folder where the project is located, open the terminal and run the `npm install` command. This command will download the libraries used in the project. Then, you can run the project by running the `npm start` command.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Libraries Used While Developing the Project
 
-### `npm run build`
+- [React.js](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [React Tailwind CSS](https://tailwindcss.com/)
+- [React Icons](https://react-icons.github.io/react-icons/) (Not added yet)
+- [React Scroll](https://www.npmjs.com/package/react-scroll) (Not added yet)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
+<hr>
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## TÜRKÇE
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Proje Hakkında
 
-### `npm run eject`
+Bu proje, "İncir Pub" adında bir pub'ın web sitesidir. Bu pub'ın menüsü, iletişim bilgileri ve adresi gibi bilgileri bu web sitesinde bulabilirsiniz.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Proje İçeriği
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Bu projede, React.js kullanılmıştır. Bu projede, React.js ile birlikte, React Router, React Tailwind CSS, React Icons ve React Scroll gibi kütüphaneler kullanılmıştır.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Proje Nasıl Çalıştırılır?
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Bu projeyi çalıştırmak için, öncelikle projeyi bilgisayarınıza indirmeniz gerekmektedir. Daha sonra, projenin bulunduğu klasörde, terminali açıp, `npm install` komutunu çalıştırmanız gerekmektedir. Bu komut, projede kullanılan kütüphaneleri indirecektir. Daha sonra, `npm start` komutunu çalıştırarak, projeyi çalıştırabilirsiniz.
 
-## Learn More
+### Proje Geliştirilirken Kullanılan Kütüphaneler
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React.js](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [React Tailwind CSS](https://tailwindcss.com/)
+- [React Icons](https://react-icons.github.io/react-icons/) (Henüz eklenmedi)
+- [React Scroll](https://www.npmjs.com/package/react-scroll) (Henüz eklenmedi)
