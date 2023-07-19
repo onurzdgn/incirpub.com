@@ -1,9 +1,9 @@
 .App {
   text-align: center;
-  background-color: #355e3b;
+  /* background-color: #355e3b; */
 }
 
-.App::before{
+/* .App::before{
   background-color: #355e3b;
   content: "";
   position: absolute;
@@ -20,7 +20,7 @@
   -moz-background-size: 500px 500px;
   -o-background-size: 500px 500px;
   background-size: 500px 500px;
-}
+} */
 
 .App-logo {
   height: 40vmin;
