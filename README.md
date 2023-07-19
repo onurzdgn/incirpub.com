@@ -19,6 +19,7 @@ To run this project, you first need to download the project to your computer. Th
 - [React.js](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
 - [React Tailwind CSS](https://tailwindcss.com/)
+- [React Query](https://www.npmjs.com/package/react-query)
 - [React Icons](https://react-icons.github.io/react-icons/) (Not added yet)
 - [React Scroll](https://www.npmjs.com/package/react-scroll) (Not added yet)
 
@@ -45,5 +46,6 @@ Bu projeyi çalıştırmak için, öncelikle projeyi bilgisayarınıza indirmeni
 - [React.js](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
 - [React Tailwind CSS](https://tailwindcss.com/)
+- [React Query](https://www.npmjs.com/package/react-query)
 - [React Icons](https://react-icons.github.io/react-icons/) (Henüz eklenmedi)
 - [React Scroll](https://www.npmjs.com/package/react-scroll) (Henüz eklenmedi)
